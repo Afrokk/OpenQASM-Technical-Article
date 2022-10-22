@@ -32,6 +32,6 @@ Afrasiyab (Afrokk) Khan - [@afrokk_](https://www.instagram.com/afrokk_/) - [afro
 Checkout Vintage Autohaus: [https://github.com/Afrokk/Vintage-Autohaus](https://github.com/Afrokk/Vintage-Autohaus)
 
 [LaTex.com]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
-[LaTex-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[LaTex-url]: https://www.latex-project.org/
 [Overleaf.com]: https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
 [Overleaf-url]: www.overleaf.com
