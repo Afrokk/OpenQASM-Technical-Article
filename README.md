@@ -22,8 +22,8 @@ My technical article on the Open Quantum Assembly Language. Quantum Computing is
 
 Built with Overleaf & LaTeX.
 
-* [![LaTex][LaTex.com]][LaTex-url]
-* [![Overleaf][Overleaf.com]][Overleaf-url]
+[![LaTex][LaTex.com]][LaTex-url]
+[![Overleaf][Overleaf.com]][Overleaf-url]
 
 ## Contact
 
