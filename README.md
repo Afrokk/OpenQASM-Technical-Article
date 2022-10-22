@@ -9,7 +9,7 @@
   <p align="center">
     My technical article on the Open Quantum Assembly Language. 
     <br />
-    <a href="https://github.com/Afrokk/OpenQASM-Technical-Article/blob/main/Report.pdf" target="_blank"><strong>Check it out Live! »</strong></a>
+    <a href="https://afrokk.github.io/OpenQASM-Technical-Article/" target="_blank"><strong>Check it out Live! »</strong></a>
     <br />
   </p>
 </div>
