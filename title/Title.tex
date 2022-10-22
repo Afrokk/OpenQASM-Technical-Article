@@ -1,0 +1,45 @@
+\begin{titlepage}
+
+    \newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
+    
+    %----------------------------------------------------------------------------------------
+    %	LOGO SECTION
+    %----------------------------------------------------------------------------------------
+    \centering
+    \includegraphics[width=8cm]{title/logo.jpg}\\[1cm] % Include a department/university logo - this will require the graphicx package
+
+    %----------------------------------------------------------------------------------------
+    
+    \center % Center everything on the page
+    
+    %----------------------------------------------------------------------------------------
+    %	HEADING SECTIONS
+    %----------------------------------------------------------------------------------------
+    
+    \textsc{\LARGE Technical Article}\\[1.5cm]
+    %----------------------------------------------------------------------------------------
+    %	TITLE SECTION
+    %----------------------------------------------------------------------------------------
+    \makeatletter
+    \HRule \\[0.4cm]
+    { \huge \bfseries \@title}\\[0.4cm] % Title of your document
+    \HRule \\[1.5cm]
+
+    %----------------------------------------------------------------------------------------
+    %	AUTHOR SECTION
+    %----------------------------------------------------------------------------------------
+    
+    
+    \begin{flushcenter} \large
+    \emph{Author:} \@author
+    \end{flushcenter}
+    
+    %----------------------------------------------------------------------------------------
+    %	DATE SECTION
+    %----------------------------------------------------------------------------------------
+    
+    \vfill % Fill the rest of the page with whitespace
+    {\large \today}\\[2cm] % Date, change the \today to a set date if you want to be precise
+    
+    \vfill % Fill the rest of the page with whitespace
+    \end{titlepage}
