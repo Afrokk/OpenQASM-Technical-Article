@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://afrokk.github.io/Vintage-Autohaus/">
+  <a href="https://afrokk.github.io/OpenQASM-Technical-Article/">
     <img src="assets/clip.png" alt="Logo" width="315" height="315">
   </a>
 
