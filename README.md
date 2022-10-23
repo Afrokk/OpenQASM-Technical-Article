@@ -14,7 +14,7 @@
   </p>
 </div>
 
-## About The Project
+## About
 
 My technical article on the Open Quantum Assembly Language. Quantum Computing is one of the most exciting inventions that is still in its infancy. This is a technical article on the Open Quantum Assembly Language, also known as OpenQASM (pronounced open-qazm). The article will introduce the technology, discuss features & problems, go over its uses, discuss its past, future, and current state.
 
